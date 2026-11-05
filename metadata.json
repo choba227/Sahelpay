@@ -1,0 +1,6 @@
+{
+  "name": "Sahel Pay - Fintech & Mobile Money",
+  "description": "Application fintech sécurisée pour le transfert d'argent mobile au Sahel (NITA, AMANA), avec chiffrement bancaire de bout en bout et authentification biométrique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
